@@ -17,7 +17,7 @@
 
  Do not close cmd
 
-6. Download *GuruShitsAutoLike.js* and  *LoginData.js* form this page and put them in that folder
+6. Download *voter_updated.js* and  *LoginData.js* form this page and put them in that folder
 7. Open *LoginData.js* with any editor (i use notepad++) and type your login data and save
 8. Run script. Type in cmd (note that you need to stay in cmd in your folder)
 
@@ -29,4 +29,4 @@ This sript runs "headless" browser chromium login into your account and imitates
 
 **If you have an error while first launch script just relaunch him**
 
-### If this script comes in handy for you, please give a star ✭ for this repo
+### If this script comes in handy for you, please give a star ✭ for this repository.
